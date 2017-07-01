@@ -13,6 +13,7 @@
     "vue": "^2.3.3"
   },
   "devDependencies": {
+    "http-proxy-middleware": "^0.17.4",
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",
     "babel-preset-env": "^1.5.1",
